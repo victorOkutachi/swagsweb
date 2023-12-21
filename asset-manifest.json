@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/swagsweb/static/css/main.5aa9c006.css",
+    "main.js": "/swagsweb/static/js/main.2004aabc.js",
+    "index.html": "/swagsweb/index.html",
+    "main.5aa9c006.css.map": "/swagsweb/static/css/main.5aa9c006.css.map",
+    "main.2004aabc.js.map": "/swagsweb/static/js/main.2004aabc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aa9c006.css",
+    "static/js/main.2004aabc.js"
+  ]
+}
