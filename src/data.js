@@ -2,26 +2,26 @@ export const listItems = [
 
     {
         id: 1,
-        desc: "Home" ,
-        path: '/about'
-    },
-
-    {
-        id: 2,
-        desc: "Explore" ,
-        path: '/discography'
-    },
-
-    {
-        id: 3,
         desc: "Music" ,
         path: '/music'
     },
 
     {
+        id: 2,
+        desc: "Services" ,
+        path: '/services'
+    },
+
+    {
+        id: 3,
+        desc: "Bookings" ,
+        path: '/bookings'
+    },
+
+    {
         id: 4,
-        desc: "Connect" ,
-        path: '/connect'
+        desc: "Subscribe" ,
+        path: '/subscribe'
     },
 
     {
