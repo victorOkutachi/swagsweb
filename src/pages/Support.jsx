@@ -92,7 +92,7 @@ const Support = () => {
             </div>
 
             <div>
-                <h2 className='text-[20px] md:text-[30px] text-[#eba95d] font-Dancing my-3 text-bold'>
+                <h2 className='text-[20px] md:text-[30px] text-[#eba95d] font-Dancing py-3 text-bold'>
                 Attend Live Shows:
                 </h2>
 

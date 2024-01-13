@@ -27,15 +27,11 @@ const Homepage = () => {
         
             <div className=' w-full h-[600px]  md:h-[900px] flex flex-col text-center items-center justify-center' data-aos='fade-up'>
            
-            <p className='max-w-[450px] text-[16px] md:text-[22px] font-Kanit md:max-w-[750px] text-white mb-10 px-6'>Elswag is a Nigerian independent afrobeat producer, songwriter and mix engineer based in Luxembourg. He is set to bring
+            <p className='max-w-[450px] text-[16px] md:text-[22px] font-Kanit md:max-w-[750px] text-white px-6'>Elswag is a Nigerian independent afrobeat producer, songwriter and mix engineer based in Luxembourg. He is set to bring
             afro fusion sounds to the Luxembourgish music industry.
             </p>
 
-            <a href='https://open.spotify.com/artist/2REl4p864PAPreRRF3LMmy?si=V_dNwt4DSha2STTdKXe5vg' target={'_blank'}>
-            <button className='text-[#eba95d] bg-white font-bold text-[14px] md:text-[18px] rounded-full hover:text-white border-[2px] hover:bg-[#eba95d] border-white hover:border-white px-8 py-2 md:w-[200px] md:py-3 md:px-8 w-[120px] flex items-center justify-center my-6 mx-auto md:mx-0' >
-                Discography
-            </button>
-            </a>
+           
             
 
             </div>
