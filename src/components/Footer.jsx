@@ -1,20 +1,14 @@
 import React from 'react'
 import { FaRegCopyright } from 'react-icons/fa'
+import { Link } from 'react-router-dom'
 import { SocialIcon } from 'react-social-icons'
 const Footer = () => {
   return (
-    <div className='w-full flex flex-col items-center justify-center '>
-        <h1 className='text-[#eba95d] font-Whisper text-[24px] pt-2 lg:text-[24px]'>IamElswag</h1>
-      <div className='flex flex-col my-3 md:flex-row'>
-        <ul className='flex flex-col md:flex-row'>
-        <li className='px-4 py-1'>Music</li>
-        <li className='px-4 py-1'>Services</li>
-        <li className='px-4 py-1'>Bookings</li>
-        <li className='px-4 py-1'>Subscribe</li>
-        </ul>
-       
-        
-        </div>
+    <div className='w-full flex flex-col items-center justify-center mt-10 bg-[#eba95d]'>
+        <h1 className='text-white font-Whisper text-[24px] pt-2 lg:text-[24px]'>
+        <Link to='/'>IamElswag</Link>
+        </h1>
+    
 
 
          <div className='my-4'>
@@ -22,7 +16,7 @@ const Footer = () => {
           <SocialIcon url='https://www.tiktok.com/@iam_elswag?_t=8ihLw9abz8f&_r=1' className='mx-4'/>
         </div>
         
-        <div className=' flex justify-center items-center font-semibold pb-4'><FaRegCopyright/>IamElswag All rights reserved 2024</div>
+        <div className=' flex justify-center items-center text-white font-semibold pb-4'><FaRegCopyright/>IamElswag All rights reserved 2024</div>
     </div>
   )
 }

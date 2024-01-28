@@ -1,12 +1,10 @@
 import React from 'react'
 
 
-const Support = () => {
+const Music = () => {
   return (
-
     <></>
-
   )
 }
 
-export default Support
+export default Music
