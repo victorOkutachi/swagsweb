@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/swagsweb/static/css/main.e4a74fea.css",
-    "main.js": "/swagsweb/static/js/main.82de888d.js",
+    "main.css": "/swagsweb/static/css/main.60272a84.css",
+    "main.js": "/swagsweb/static/js/main.160e3ff7.js",
     "index.html": "/swagsweb/index.html",
-    "main.e4a74fea.css.map": "/swagsweb/static/css/main.e4a74fea.css.map",
-    "main.82de888d.js.map": "/swagsweb/static/js/main.82de888d.js.map"
+    "main.60272a84.css.map": "/swagsweb/static/css/main.60272a84.css.map",
+    "main.160e3ff7.js.map": "/swagsweb/static/js/main.160e3ff7.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4a74fea.css",
-    "static/js/main.82de888d.js"
+    "static/css/main.60272a84.css",
+    "static/js/main.160e3ff7.js"
   ]
 }
